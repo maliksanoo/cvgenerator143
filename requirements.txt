@@ -68,7 +68,6 @@ python-dateutil==2.8.1
 python3-openid==3.2.0
 pytz==2020.1
 PyWavelets==1.1.1
-pywin32==3.0.0
 pywinpty==0.5.7
 PyYAML==5.4.1
 pyzmq==21.0.2
